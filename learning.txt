@@ -1,1 +1,3 @@
-I have learned how to create repositories, manage branches, and collaborate on open source projects using forks and pull requests.
+What I have learned from this course
+
+I have learned how to use the Linux terminal, how to manage files with shell commands, and how to use Git and GitHub for version control!
